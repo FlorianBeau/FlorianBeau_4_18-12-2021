@@ -786,7 +786,7 @@ h4 {
 }
 
 .tc-black {
-  black: #000000;
+  black: #000000 !important;
 }
 
 .btn-atomic-tangerine {
